@@ -37,7 +37,7 @@ I'm a student from Malaysia 🇲🇾 pursuing my Bachelors in Information Techno
 - 🎵 Audio and Music Technology
 
 ## Programming Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimaniskndar&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimanazuman&layout=compact)
 
 ## Projects 
 
