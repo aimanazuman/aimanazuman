@@ -36,9 +36,6 @@ I'm a student from Malaysia 🇲🇾 pursuing my Bachelors in Information Techno
 - 📷 Computer Vision and Image Processing (Learning in Progress)
 - 🎵 Audio and Music Technology
 
-## Programming Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimanazuman&layout=compact)
-
 ## Projects 
 
 Here are some of the projects I have been working on:
