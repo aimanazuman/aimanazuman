@@ -1,64 +1,25 @@
-# Hi, I'm Aiman! 👋
+# Hi, I'm Aiman!
 
-I'm a student from Malaysia 🇲🇾 pursuing my Bachelors in Information Technology (Honours) in Computer Application Developement at Universiti Poly-Tech Malaysia. Welcome to my GitHub profile!
+A Computer Application Development student at Universiti Poly-Tech Malaysia, based in Malaysia. I like building things for the web and tinkering with how software works under the hood.
 
-## About Me
+Diploma in Computer Science graduate. Currently pursuing my Bachelor's in Information Technology (Honours).
 
-- 📚 Currently studying: Bachelors in Information Technology (Honours) in Computer Application Developement
-- 👨‍🎓 Graduated from Diloma in Computer Science 
-- ✉️ Contact Email: contact.aiman.azman@gmail.com
-- 🗣️ Language:
-  - Malay
-  - English
-  - Mandarin (20%)
- 
-## Website Portfolio
+I speak Malay, English, and a little Mandarin.
+
+## What I'm focused on
+
+Web development is my main lane — it's where most of my energy goes. Beyond that, I've been exploring AI/ML and game development on the side, and I care a lot about making interfaces that actually feel good to use.
+
+I'm always down to collaborate on interesting projects or contribute to open source.
+
+## Languages and Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimanazuman&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+## Portfolio
+
 [aimanazman.com](https://aimanazman.com)
 
-## Interests
+## Get in touch
 
-- 🌐 Web Development
-- 👨‍💻 Programming
-- 🤖 Artificial Intelligence and Machine Learning (Learning in Progress)
-- 🎮 Game Development (Learning in Progress)
-- 📱 Mobile App Development
-- 🖥️ Software (Operating System) Development
-- 📊 Data Science and Analytics
-- 🤝 Open Source Collaboration
-- 🎨 UI/UX Design
-- 📝 Technical Writing
-- 💡 Innovation and Problem Solving
-- 🧩 Algorithm Design and Optimization
-- 🚀 Cloud Computing
-- 🌍 Internet of Things (IoT) Development
-- ⚙️ DevOps and CI/CD
-- 🎲 Blockchain and Cryptocurrency (Learning in Progress)
-- 📷 Computer Vision and Image Processing (Learning in Progress)
-- 🎵 Audio and Music Technology
-
-## Projects 
-
-Here are some of the projects I have been working on:
-
-*Coming soon...*
-
-<!--
-- [Project 1](link-to-project1): Brief description of the project.
-- [Project 2](link-to-project2): Brief description of the project.
--->
-
-Feel free to explore my repositories to find out more about my work!
-
-## Contact Me
-
-You can reach me via email at [contact.aiman.azman@gmail.com](mailto:contact.aiman.azman@gmail.com). I'm always open to collaboration and interesting projects.
-
-Looking forward to connecting with you!
-
-## Todo 📃
-- Clean up and reorganised old repos
-
-<!---
-Aimaniskndar/Aimaniskndar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[contact.aiman.azman@gmail.com](mailto:contact.aiman.azman@gmail.com)
